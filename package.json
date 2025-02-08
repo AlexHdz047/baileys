@@ -1,0 +1,23 @@
+{
+  "name": "baileys",
+  "version": "1.0.0",
+  "description": "Chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexHdz047/baileys.git"
+  },
+  "author": "AlexHdz047",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexHdz047/baileys/issues"
+  },
+  "homepage": "https://github.com/AlexHdz047/baileys#readme",
+  "dependencies": {
+    "@builderbot/bot": "^1.2.5",
+    "@builderbot/provider-baileys": "^1.2.5"
+  }
+}
